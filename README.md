@@ -8,4 +8,4 @@ Meu nome é Murilo
 
 @mur1linng
 
-![](https://tenor.com/pt-BR/view/bom-dia-aquele-dia-lindo-good-day-beautiful-day-gif-14659650)
+![](https://media1.tenor.com/m/bCMgb3mnPPIAAAAC/bom-dia.gif)
