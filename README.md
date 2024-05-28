@@ -2,7 +2,7 @@
 
 Meu nome é Murilo
 
--Estudo pelo Alura
+-Estudo pelo [Alura](https://www.alura.com.br/)
 
 -Estudo JavaScript
 
