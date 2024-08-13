@@ -6,4 +6,6 @@ Meu nome é Murilo
 
 -Estudo JavaScript
 
+-Estudo HTML & CSS
+
 ![](https://media1.tenor.com/m/bCMgb3mnPPIAAAAC/bom-dia.gif)
